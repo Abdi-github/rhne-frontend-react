@@ -1,0 +1,21 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: rhne_frontend_dev
+    ports:
+      - "5174:5174"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - VITE_API_URL=/api/v1
+      - API_PROXY_TARGET=http://rhne-api:5000
+    networks:
+      - rhne_network
+
+networks:
+  rhne_network:
+    external: true
+    name: rhne-node-api_rhne-network
