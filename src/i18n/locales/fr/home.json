@@ -1,0 +1,21 @@
+{
+  "hero_title": "Votre santé, notre engagement",
+  "search_title": "JE RECHERCHE",
+  "search_professional": "Un-e professionnel-le",
+  "search_service": "Une prestation",
+  "search_info": "Un renseignement",
+  "body_search_title": "PAR PARTIE DU CORPS",
+  "body_search_subtitle": "Trouvez le service médical adapté à votre besoin",
+  "consultation_cta": "Une consultation",
+  "consultation_button": "PRENDRE RDV",
+  "body_search_cta": "COMMENCER",
+  "search_professional_placeholder": "Tapez le nom d'un-e professionnel-le",
+  "search_service_placeholder": "Tapez le nom de la prestation",
+  "search_info_placeholder": "Que recherchez-vous ?",
+  "quick_access": {
+    "contact": "Contact",
+    "access": "Accès",
+    "newborns": "Bébés en ligne",
+    "agenda": "Agenda"
+  }
+}

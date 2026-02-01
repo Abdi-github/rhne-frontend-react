@@ -1,0 +1,91 @@
+{
+  "title": "Online-Terminvereinbarung",
+  "hero_title": "Terminvereinbarung",
+  "adult_section": "Notfall Erwachsene",
+  "child_section": "Notfall Kind/Jugendliche",
+  "tab_book": "Termin buchen",
+  "tab_my_appointment": "Mein Termin",
+  "tab_consult": "Tageskonsultation",
+  "no_doctor_info": "Sie haben keinen Hausarzt?",
+  "steps": {
+    "select_type": "Typ auswählen",
+    "select_slot": "Zeitfenster auswählen",
+    "patient_info": "Patientendaten",
+    "review": "Überprüfung",
+    "confirmation": "Bestätigung"
+  },
+  "no_types": "Keine Termintypen verfügbar",
+  "no_slots": "Keine Zeitfenster verfügbar",
+  "select_date": "Datum auswählen",
+  "select_date_first": "Bitte wählen Sie zuerst ein Datum",
+  "book_now": "Jetzt buchen",
+  "booking_success": "Ihr Termin wurde erfolgreich gebucht",
+  "booking_error": "Fehler bei der Buchung. Bitte versuchen Sie es erneut.",
+  "booking_confirmed": "Termin bestätigt",
+  "reference_number": "Referenznummer",
+  "confirmation_email_sent": "Eine Bestätigungs-E-Mail wurde gesendet",
+  "weekend_closed": "Am Wochenende sind keine Konsultationen verfügbar. Bitte wählen Sie einen Wochentag.",
+  "form": {
+    "first_name": "Vorname",
+    "last_name": "Nachname",
+    "date_of_birth": "Geburtsdatum",
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefonnummer",
+    "notes": "Bemerkungen",
+    "reason": "Grund des Besuchs",
+    "select_date": "Datum auswählen",
+    "select_time": "Uhrzeit auswählen",
+    "select_site": "Standort auswählen",
+    "submit": "Termin bestätigen",
+    "cancel": "Termin absagen"
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich",
+    "invalid_email": "Ungültige E-Mail-Adresse",
+    "invalid_phone": "Ungültige Telefonnummer",
+    "future_date": "Das Geburtsdatum darf nicht in der Zukunft liegen",
+    "reason_too_short": "Bitte beschreiben Sie den Grund genauer (mind. 10 Zeichen)",
+    "reason_hint": "Beschreiben Sie kurz den Grund Ihres Besuchs",
+    "child_age_restriction": "Kindernotfälle sind für Patienten unter 16 Jahren vorgesehen.",
+    "adult_age_restriction": "Erwachsenennotfälle sind für Patienten ab 16 Jahren vorgesehen."
+  },
+  "summary": {
+    "review_message": "Bitte überprüfen Sie die Informationen unten, bevor Sie Ihren Termin bestätigen.",
+    "appointment_details": "Termindetails",
+    "patient_details": "Patienteninformationen",
+    "type": "Typ",
+    "date": "Datum",
+    "time": "Uhrzeit",
+    "patient": "Patient",
+    "booked_on": "Gebucht am",
+    "submitting": "Wird gesendet..."
+  },
+  "confirmation": {
+    "keep_reference": "Bewahren Sie Ihre Referenznummer auf. Sie benötigen sie, um Ihren Termin nachzuschlagen oder abzusagen.",
+    "print": "Drucken",
+    "book_another": "Weiteren Termin buchen"
+  },
+  "booking": {
+    "reference": "Referenz",
+    "status_confirmed": "Bestätigt",
+    "status_pending": "Ausstehend",
+    "status_cancelled": "Abgesagt",
+    "status_completed": "Abgeschlossen",
+    "status_no_show": "Nicht erschienen",
+    "lookup_title": "Meinen Termin suchen",
+    "lookup_placeholder": "Referenz eingeben (z.B. RDV-20260311-XXXX)",
+    "not_found": "Kein Termin mit dieser Referenz gefunden",
+    "cancel_title": "Termin absagen",
+    "cancel_confirm": "Möchten Sie diesen Termin wirklich absagen? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel_reason": "Absagegrund (optional)",
+    "confirm_cancel": "Absage bestätigen",
+    "cancelled": "Ihr Termin wurde erfolgreich abgesagt",
+    "success": "Ihr Termin wurde bestätigt"
+  },
+  "slots": {
+    "available": "Verfügbar",
+    "unavailable": "Nicht verfügbar",
+    "no_slots": "Keine Termine für dieses Datum verfügbar"
+  }
+}

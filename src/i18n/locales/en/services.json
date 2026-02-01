@@ -1,0 +1,24 @@
+{
+  "title": "Services and competence centres",
+  "hero_title": "Services",
+  "filter_alphabetical": "Alphabetical order",
+  "filter_body": "Body part",
+  "filter_centers": "Competence centres",
+  "all_services": "All services",
+  "detail": {
+    "tab_presentation": "PRESENTATION",
+    "tab_prestations": "SERVICES",
+    "tab_brochures": "BROCHURES",
+    "tab_links": "LINKS",
+    "tab_contacts": "CONTACT",
+    "tab_doctors": "STAFF",
+    "no_brochures": "No brochures available",
+    "no_links": "No links available",
+    "no_contacts": "No contact available",
+    "no_doctors": "No staff available",
+    "contact_hours": "Hours",
+    "contact_phone": "Phone",
+    "contact_email": "Email",
+    "contact_site": "Site"
+  }
+}

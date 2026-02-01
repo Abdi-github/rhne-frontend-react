@@ -1,0 +1,24 @@
+{
+  "title": "Prestations et centres de compétences",
+  "hero_title": "Prestations",
+  "filter_alphabetical": "Ordre alphabétique",
+  "filter_body": "Partie du corps",
+  "filter_centers": "Centres de compétences",
+  "all_services": "Toutes les prestations",
+  "detail": {
+    "tab_presentation": "PRÉSENTATION",
+    "tab_prestations": "PRESTATIONS",
+    "tab_brochures": "BROCHURES",
+    "tab_links": "LIENS",
+    "tab_contacts": "CONTACT",
+    "tab_doctors": "CADRES",
+    "no_brochures": "Aucune brochure disponible",
+    "no_links": "Aucun lien disponible",
+    "no_contacts": "Aucun contact disponible",
+    "no_doctors": "Aucun cadre disponible",
+    "contact_hours": "Horaires",
+    "contact_phone": "Téléphone",
+    "contact_email": "E-mail",
+    "contact_site": "Site"
+  }
+}

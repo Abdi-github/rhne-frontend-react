@@ -1,0 +1,34 @@
+{
+  "title": "Patient area",
+  "hero_title": "Patient area",
+  "sections": {
+    "admission": "My admission",
+    "maternity": "My maternity stay",
+    "discharge": "My hospital discharge",
+    "billing": "Billing",
+    "chaplaincy": "Chaplaincy",
+    "child": "My child at the hospital",
+    "pain": "Pain management and Kid's friendly",
+    "consent": "Right to information and consent",
+    "directives": "Advance directives and representation",
+    "records": "Get my medical records",
+    "privacy": "Professional secrecy and data processing",
+    "complaints": "Complaints and grievances",
+    "duties": "My duties",
+    "research": "Clinical research",
+    "data_security": "Data security",
+    "electronic_record": "My electronic record",
+    "visiting_hours": "Visiting hours",
+    "consultation": "About my consultation",
+    "interpreter": "I need an interpreter",
+    "death": "In case of death at the hospital",
+    "social_service": "Social service"
+  },
+  "tab": {
+    "arrival": "Arrival",
+    "documents": "Documents",
+    "medications": "Medications",
+    "transfers": "Transfers",
+    "personal_effects": "Personal effects", "no_info": "No information available"
+  }
+}

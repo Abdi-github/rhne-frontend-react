@@ -1,0 +1,8 @@
+{
+  "title": "Newborns",
+  "hero_title": "Newborns",
+  "search_placeholder": "Search by name...",
+  "no_newborns": "No births to display",
+  "born_on": "Born on",
+  "total_results": "{{count}} birth(s)"
+}

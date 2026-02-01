@@ -1,0 +1,33 @@
+{
+  "title": "Espace emploi",
+  "hero_title": "Espace emploi",
+  "subtitle": "Rejoignez le RHNe",
+  "categories_title": "Nos offres par catégorie",
+  "all_positions": "Tous les postes",
+  "open_positions": "Postes ouverts au RHNe",
+  "spontaneous": "Offres spontanées",
+  "pool": "Pool de remplacements",
+  "contact_us": "Contactez-nous",
+  "category": {
+    "soins": "Soins",
+    "medical": "Médical",
+    "logistics": "Logistique",
+    "finance": "Finances",
+    "hr": "RH",
+    "direction": "Direction",
+    "apprenticeships": "Apprentissages",
+    "training": "Formations",
+    "pools": "Pools"
+  },
+  "detail": {
+    "percentage": "Taux d'activité",
+    "site": "Site",
+    "department": "Département",
+    "published": "Publié le",
+    "apply": "Postuler",
+    "requirements": "Profil recherché",
+    "description": "Description du poste"
+  },
+  "no_jobs": "Aucune offre d'emploi dans cette catégorie",
+  "search_placeholder": "Rechercher une offre d'emploi..."
+}

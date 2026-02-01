@@ -1,0 +1,26 @@
+{
+  "title": "Search",
+  "hero_title": "Search results",
+  "placeholder": "Search the site...",
+  "search_placeholder": "Search the site...",
+  "results_for": "Results for «{{query}}»",
+  "results_count": "{{count}} result(s) found",
+  "no_results": "No results for «{{query}}»",
+  "filters": {
+    "all": "All",
+    "services": "Services",
+    "doctors": "Doctors",
+    "events": "Events",
+    "jobs": "Jobs",
+    "patient_info": "Patient info",
+    "sites": "Sites"
+  },
+  "resources": {
+    "service": "Service",
+    "doctor": "Doctor",
+    "event": "Event",
+    "job": "Job",
+    "patient-info": "Patient Info",
+    "site": "Site"
+  }
+}

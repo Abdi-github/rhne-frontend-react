@@ -1,0 +1,30 @@
+{
+  "title": "Sites du RHNe",
+  "hero_title": "Accès",
+  "portrait_title": "Portrait",
+  "portrait_description": "Le Réseau hospitalier neuchâtelois (RHNe) est le plus grand établissement de santé du canton de Neuchâtel avec plus de 3200 collaborateur-rice-s réparti-e-s sur 7 sites.",
+  "tab_sites": "SITES",
+  "tab_map": "CARTE",
+  "site_types": {
+    "acute": "Soins aigus",
+    "rehabilitation": "Réadaptation",
+    "psychiatry": "Psychiatrie",
+    "palliative": "Soins palliatifs",
+    "pediatric": "Consultation pédiatrique"
+  },
+  "detail": {
+    "tab_description": "DESCRIPTION",
+    "tab_equipments": "ÉQUIPEMENTS",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "maps": "Voir sur la carte",
+    "equipments": {
+      "emergency": "Accès urgences",
+      "parking": "Parking",
+      "wifi": "WiFi",
+      "cafeteria": "Cafétéria",
+      "pharmacy": "Pharmacie",
+      "chapel": "Chapelle"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Online appointment booking",
+  "hero_title": "Book an appointment",
+  "steps": {
+    "select_type": "Appointment type",
+    "select_slot": "Time slot",
+    "patient_info": "Patient information",
+    "review": "Review",
+    "confirmation": "Confirmation"
+  },
+  "no_types": "No appointment types available",
+  "no_slots": "No slots available",
+  "select_date": "Select a date",
+  "select_date_first": "Please select a date first",
+  "book_now": "Confirm appointment",
+  "booking_success": "Your appointment has been confirmed successfully",
+  "booking_error": "An error occurred while booking",
+  "booking_confirmed": "Your appointment is confirmed!",
+  "reference_number": "Reference number",
+  "confirmation_email_sent": "A confirmation email has been sent to your address.",
+  "adult_section": "Adult Emergency",
+  "child_section": "Child/Adolescent Emergency",
+  "tab_book": "Book an appointment",
+  "tab_my_appointment": "My appointment",
+  "tab_consult": "Daytime consultation",
+  "no_doctor_info": "You don't have a general practitioner?",
+  "weekend_closed": "Consultations are not available on weekends. Please select a weekday.",
+  "form": {
+    "first_name": "First name",
+    "last_name": "Last name",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "date_of_birth": "Date of birth",
+    "notes": "Notes",
+    "reason": "Reason for visit",
+    "select_date": "Select a date",
+    "select_time": "Select a time",
+    "select_site": "Select a site",
+    "submit": "Confirm appointment",
+    "cancel": "Cancel appointment"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalid_email": "Invalid email address",
+    "invalid_phone": "Invalid phone number",
+    "future_date": "Date of birth cannot be in the future",
+    "reason_too_short": "Please describe the reason in more detail (min. 10 characters)",
+    "reason_hint": "Briefly describe the reason for your visit",
+    "child_age_restriction": "Pediatric emergencies are reserved for patients under 16 years old.",
+    "adult_age_restriction": "Adult emergencies are reserved for patients aged 16 and over."
+  },
+  "summary": {
+    "review_message": "Please review the information below before confirming your appointment.",
+    "appointment_details": "Appointment details",
+    "patient_details": "Patient information",
+    "type": "Type",
+    "date": "Date",
+    "time": "Time",
+    "patient": "Patient",
+    "booked_on": "Booked on",
+    "submitting": "Submitting..."
+  },
+  "confirmation": {
+    "keep_reference": "Keep your reference number. You will need it to look up or cancel your appointment.",
+    "print": "Print",
+    "book_another": "Book another appointment"
+  },
+  "booking": {
+    "reference": "Reference",
+    "status_confirmed": "Confirmed",
+    "status_pending": "Pending",
+    "status_cancelled": "Cancelled",
+    "status_completed": "Completed",
+    "status_no_show": "No show",
+    "lookup_title": "Find my appointment",
+    "lookup_placeholder": "Enter your reference (e.g. RDV-20260311-XXXX)",
+    "not_found": "No appointment found with this reference",
+    "cancel_title": "Cancel appointment",
+    "cancel_confirm": "Are you sure you want to cancel this appointment? This action cannot be undone.",
+    "cancel_reason": "Cancellation reason (optional)",
+    "confirm_cancel": "Confirm cancellation",
+    "cancelled": "Your appointment has been cancelled successfully",
+    "success": "Your appointment has been confirmed"
+  },
+  "slots": {
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "no_slots": "No slots available for this date"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Emergency",
+  "hero_title": "Emergency",
+  "vital_emergencies": "Life-threatening emergencies",
+  "non_vital_emergencies": "Non-vital emergencies",
+  "psychiatric_hotline": "Psychiatric hotline",
+  "appointment": "Book an appointment",
+  "when_to_call": "When to call this number",
+  "call_now": "Call now",
+  "occupancy_title": "Emergency occupancy",
+  "occupancy_low": "Low",
+  "occupancy_medium": "Medium",
+  "occupancy_high": "High",
+  "phone_144": "144",
+  "phone_non_vital": "0848 134 134",
+  "page_heading": "Vital emergencies, emergency services and orientation",
+  "info_title": "Information",
+  "info_text": "Emergencies are treated by order of medical priority and not by order of arrival. Patients whose lives are in danger or who are suffering particularly acute pain may be treated before patients who have already arrived.",
+  "info_thanks": "We thank you in advance for your understanding.",
+  "occupancy_unavailable": "Real-time occupancy information."
+}

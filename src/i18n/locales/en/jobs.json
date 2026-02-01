@@ -1,0 +1,33 @@
+{
+  "title": "Careers",
+  "hero_title": "Careers",
+  "subtitle": "Join RHNe",
+  "categories_title": "Our offers by category",
+  "all_positions": "All positions",
+  "open_positions": "Open positions at RHNe",
+  "spontaneous": "Spontaneous applications",
+  "pool": "Replacement pool",
+  "contact_us": "Contact us",
+  "category": {
+    "soins": "Nursing",
+    "medical": "Medical",
+    "logistics": "Logistics",
+    "finance": "Finance",
+    "hr": "HR",
+    "direction": "Management",
+    "apprenticeships": "Apprenticeships",
+    "training": "Training",
+    "pools": "Pools"
+  },
+  "detail": {
+    "percentage": "Work rate",
+    "site": "Site",
+    "department": "Department",
+    "published": "Published on",
+    "apply": "Apply",
+    "requirements": "Required profile",
+    "description": "Job description"
+  },
+  "no_jobs": "No job offers in this category",
+  "search_placeholder": "Search for a job..."
+}

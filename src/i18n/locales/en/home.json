@@ -1,0 +1,21 @@
+{
+  "hero_title": "Your health, our commitment",
+  "search_title": "I AM LOOKING FOR",
+  "search_professional": "A professional",
+  "search_service": "A service",
+  "search_info": "Information",
+  "body_search_title": "BY BODY PART",
+  "body_search_subtitle": "Find the medical service for your needs",
+  "consultation_cta": "A consultation",
+  "consultation_button": "BOOK APPOINTMENT",
+  "body_search_cta": "START",
+  "search_professional_placeholder": "Type a professional's name",
+  "search_service_placeholder": "Type a service name",
+  "search_info_placeholder": "What are you looking for?",
+  "quick_access": {
+    "contact": "Contact",
+    "access": "Access",
+    "newborns": "Newborns",
+    "agenda": "Events"
+  }
+}

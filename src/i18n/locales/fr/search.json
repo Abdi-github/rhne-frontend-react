@@ -1,0 +1,26 @@
+{
+  "title": "Recherche",
+  "hero_title": "Résultats de recherche",
+  "placeholder": "Rechercher sur le site...",
+  "search_placeholder": "Rechercher sur le site...",
+  "results_for": "Résultats pour «{{query}}»",
+  "results_count": "{{count}} résultat(s) trouvé(s)",
+  "no_results": "Aucun résultat pour «{{query}}»",
+  "filters": {
+    "all": "Tout",
+    "services": "Prestations",
+    "doctors": "Médecins",
+    "events": "Événements",
+    "jobs": "Emplois",
+    "patient_info": "Infos patients",
+    "sites": "Sites"
+  },
+  "resources": {
+    "service": "Prestation",
+    "doctor": "Médecin",
+    "event": "Événement",
+    "job": "Emploi",
+    "patient-info": "Info Patient",
+    "site": "Site"
+  }
+}

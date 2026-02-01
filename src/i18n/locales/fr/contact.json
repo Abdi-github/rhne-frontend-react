@@ -1,0 +1,36 @@
+{
+  "title": "Contact",
+  "hero_title": "Contact",
+  "cards": {
+    "central": "Centrale téléphonique",
+    "urgences": "Urgences",
+    "appointments_contact": "Rendez-vous",
+    "patient_relations": "Relations patients",
+    "patient_relations_desc": "Pour vos remerciements, doléances ou remarques concernant votre séjour.",
+    "hr": "Ressources humaines",
+    "hr_desc": "Pour les candidatures, stages et questions relatives à l'emploi.",
+    "media": "Relations médias",
+    "media_desc": "Pour les demandes de presse et les relations médias.",
+    "general": "Renseignements généraux",
+    "general_desc": "Pour toute autre question ou demande d'information.",
+    "direction": "Direction générale",
+    "direction_desc": "Siège administratif du Réseau hospitalier neuchâtelois."
+  },
+  "categories": {
+    "thanks": "Remerciements",
+    "medical_records": "Dossier médical",
+    "billing": "Facturation",
+    "other": "Autres renseignements",
+    "media": "Relations médias",
+    "employment": "Emploi / Formation / Stage",
+    "apply": "Postuler au RHNe",
+    "complaints": "Doléances et réclamations"
+  },
+  "phone_cards": {
+    "pourtales": "Centrale Pourtalès",
+    "chauxdefonds": "Centrale Chaux-de-Fonds"
+  },
+  "email": "E-mail",
+  "phone": "Téléphone",
+  "address": "Adresse"
+}

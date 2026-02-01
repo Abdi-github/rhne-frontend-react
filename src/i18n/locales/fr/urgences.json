@@ -1,0 +1,21 @@
+{
+  "title": "Urgences",
+  "hero_title": "Urgences",
+  "vital_emergencies": "Urgences vitales",
+  "non_vital_emergencies": "Urgences non vitales",
+  "psychiatric_hotline": "Hotline psychiatrique",
+  "appointment": "Prise de rendez-vous",
+  "when_to_call": "Quand appeler ce numéro",
+  "call_now": "Appeler maintenant",
+  "occupancy_title": "Occupation des urgences",
+  "occupancy_low": "Faible",
+  "occupancy_medium": "Moyenne",
+  "occupancy_high": "Élevée",
+  "phone_144": "144",
+  "phone_non_vital": "0848 134 134",
+  "page_heading": "Urgences vitales, services d'urgence et orientation",
+  "info_title": "Information",
+  "info_text": "Les urgences sont traitées par ordre de priorité médicale et non par ordre d'arrivée. L'accueil de patient-e-s dont la vie est en danger ou dont les souffrances sont particulièrement aiguës peut amener le personnel soignant à les prendre en charge avant les patient-e-s déjà arrivés.",
+  "info_thanks": "Nous vous remercions par avance de votre compréhension.",
+  "occupancy_unavailable": "Information en temps réel de l'affluence."
+}

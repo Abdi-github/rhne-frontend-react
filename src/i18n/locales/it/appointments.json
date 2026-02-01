@@ -1,0 +1,91 @@
+{
+  "title": "Prenotazione appuntamento online",
+  "hero_title": "Prenotazione appuntamento",
+  "adult_section": "Emergenza Adulti",
+  "child_section": "Emergenza Bambini/Adolescenti",
+  "tab_book": "Prenota un appuntamento",
+  "tab_my_appointment": "Il mio appuntamento",
+  "tab_consult": "Consultazione diurna",
+  "no_doctor_info": "Non hai un medico di base?",
+  "steps": {
+    "select_type": "Seleziona tipo",
+    "select_slot": "Seleziona orario",
+    "patient_info": "Dati paziente",
+    "review": "Verifica",
+    "confirmation": "Conferma"
+  },
+  "no_types": "Nessun tipo di appuntamento disponibile",
+  "no_slots": "Nessun orario disponibile",
+  "select_date": "Seleziona una data",
+  "select_date_first": "Seleziona prima una data",
+  "book_now": "Prenota ora",
+  "booking_success": "Il tuo appuntamento è stato prenotato con successo",
+  "booking_error": "Errore durante la prenotazione. Riprova.",
+  "booking_confirmed": "Appuntamento confermato",
+  "reference_number": "Numero di riferimento",
+  "confirmation_email_sent": "Un'e-mail di conferma è stata inviata",
+  "weekend_closed": "Le consultazioni non sono disponibili nel fine settimana. Seleziona un giorno feriale.",
+  "form": {
+    "first_name": "Nome",
+    "last_name": "Cognome",
+    "date_of_birth": "Data di nascita",
+    "name": "Nome completo",
+    "email": "Indirizzo e-mail",
+    "phone": "Numero di telefono",
+    "notes": "Note",
+    "reason": "Motivo della visita",
+    "select_date": "Seleziona una data",
+    "select_time": "Seleziona un orario",
+    "select_site": "Seleziona una sede",
+    "submit": "Conferma appuntamento",
+    "cancel": "Annulla appuntamento"
+  },
+  "validation": {
+    "required": "Questo campo è obbligatorio",
+    "invalid_email": "Indirizzo e-mail non valido",
+    "invalid_phone": "Numero di telefono non valido",
+    "future_date": "La data di nascita non può essere nel futuro",
+    "reason_too_short": "Descrivi il motivo in modo più dettagliato (min. 10 caratteri)",
+    "reason_hint": "Descrivi brevemente il motivo della tua visita",
+    "child_age_restriction": "Le emergenze pediatriche sono riservate ai pazienti con meno di 16 anni.",
+    "adult_age_restriction": "Le emergenze per adulti sono riservate ai pazienti di 16 anni e oltre."
+  },
+  "summary": {
+    "review_message": "Verifica le informazioni qui sotto prima di confermare il tuo appuntamento.",
+    "appointment_details": "Dettagli appuntamento",
+    "patient_details": "Informazioni paziente",
+    "type": "Tipo",
+    "date": "Data",
+    "time": "Ora",
+    "patient": "Paziente",
+    "booked_on": "Prenotato il",
+    "submitting": "Invio in corso..."
+  },
+  "confirmation": {
+    "keep_reference": "Conserva il tuo numero di riferimento. Ti servirà per consultare o annullare il tuo appuntamento.",
+    "print": "Stampa",
+    "book_another": "Prenota un altro appuntamento"
+  },
+  "booking": {
+    "reference": "Riferimento",
+    "status_confirmed": "Confermato",
+    "status_pending": "In attesa",
+    "status_cancelled": "Annullato",
+    "status_completed": "Completato",
+    "status_no_show": "Assente",
+    "lookup_title": "Cerca il mio appuntamento",
+    "lookup_placeholder": "Inserisci il tuo riferimento (es. RDV-20260311-XXXX)",
+    "not_found": "Nessun appuntamento trovato con questo riferimento",
+    "cancel_title": "Annulla appuntamento",
+    "cancel_confirm": "Sei sicuro di voler annullare questo appuntamento? Questa azione non può essere annullata.",
+    "cancel_reason": "Motivo dell'annullamento (facoltativo)",
+    "confirm_cancel": "Conferma annullamento",
+    "cancelled": "Il tuo appuntamento è stato annullato con successo",
+    "success": "Il tuo appuntamento è stato confermato"
+  },
+  "slots": {
+    "available": "Disponibile",
+    "unavailable": "Non disponibile",
+    "no_slots": "Nessun orario disponibile per questa data"
+  }
+}

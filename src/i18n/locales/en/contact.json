@@ -1,0 +1,36 @@
+{
+  "title": "Contact",
+  "hero_title": "Contact",
+  "cards": {
+    "central": "Switchboard",
+    "urgences": "Emergency",
+    "appointments_contact": "Appointments",
+    "patient_relations": "Patient relations",
+    "patient_relations_desc": "For thanks, complaints or remarks about your stay.",
+    "hr": "Human resources",
+    "hr_desc": "For applications, internships and employment questions.",
+    "media": "Media relations",
+    "media_desc": "For press inquiries and media relations.",
+    "general": "General inquiries",
+    "general_desc": "For any other questions or information requests.",
+    "direction": "General management",
+    "direction_desc": "Administrative headquarters of the Neuchâtel hospital network."
+  },
+  "categories": {
+    "thanks": "Thank you",
+    "medical_records": "Medical records",
+    "billing": "Billing",
+    "other": "Other inquiries",
+    "media": "Media relations",
+    "employment": "Employment / Training / Internship",
+    "apply": "Apply to RHNe",
+    "complaints": "Complaints and grievances"
+  },
+  "phone_cards": {
+    "pourtales": "Pourtalès switchboard",
+    "chauxdefonds": "La Chaux-de-Fonds switchboard"
+  },
+  "email": "Email",
+  "phone": "Phone",
+  "address": "Address"
+}

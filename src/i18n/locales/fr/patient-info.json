@@ -1,0 +1,35 @@
+{
+  "title": "Espace patient-e",
+  "hero_title": "Espace patient-e",
+  "sections": {
+    "admission": "Mon admission",
+    "maternity": "Mon séjour en maternité",
+    "discharge": "Ma sortie d'hôpital",
+    "billing": "Facturation",
+    "chaplaincy": "Aumônerie",
+    "child": "Mon enfant à l'hôpital",
+    "pain": "Gestion de la douleur et Kid's friendly",
+    "consent": "Droit à l'information et consentement",
+    "directives": "Directives anticipées et représentation",
+    "records": "Obtenir mon dossier médical",
+    "privacy": "Secret professionnel et traitement de données",
+    "complaints": "Réclamations et doléances",
+    "duties": "Mes devoirs",
+    "research": "Recherches cliniques",
+    "data_security": "Sécurité de mes données",
+    "electronic_record": "Mon dossier électronique",
+    "visiting_hours": "Horaires visites",
+    "consultation": "Au sujet de ma consultation",
+    "interpreter": "J'ai besoin d'un-e interprète",
+    "death": "En cas de décès à l'hôpital",
+    "social_service": "Service social"
+  },
+  "tab": {
+    "arrival": "Arrivée",
+    "documents": "Documents",
+    "medications": "Médicaments",
+    "transfers": "Transferts",
+    "personal_effects": "Effets personnels"
+  },
+  "no_info": "Aucune information disponible"
+}

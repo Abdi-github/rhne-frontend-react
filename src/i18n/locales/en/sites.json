@@ -1,0 +1,22 @@
+{
+  "title": "RHNe Sites",
+  "hero_title": "Access",
+  "portrait_title": "Portrait",
+  "portrait_description": "The Neuchâtel Hospital Network (RHNe) is the largest healthcare institution in the canton of Neuchâtel with over 3,200 employees across 7 sites.",
+  "tab_sites": "SITES",
+  "tab_map": "MAP",
+  "site_types": {
+    "acute": "Acute care",
+    "rehabilitation": "Rehabilitation",
+    "psychiatry": "Psychiatry",
+    "palliative": "Palliative care",
+    "pediatric": "Pediatric consultation"
+  },
+  "detail": {
+    "tab_description": "DESCRIPTION",
+    "tab_equipments": "FACILITIES",
+    "address": "Address",
+    "phone": "Phone",
+    "maps": "View on map"
+  }
+}

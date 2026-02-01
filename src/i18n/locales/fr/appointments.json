@@ -1,0 +1,91 @@
+{
+  "title": "Prise de rendez-vous en ligne",
+  "hero_title": "Prise de rendez-vous",
+  "steps": {
+    "select_type": "Type de rendez-vous",
+    "select_slot": "Créneau horaire",
+    "patient_info": "Informations patient",
+    "review": "Vérification",
+    "confirmation": "Confirmation"
+  },
+  "no_types": "Aucun type de rendez-vous disponible",
+  "no_slots": "Aucun créneau disponible",
+  "select_date": "Sélectionner une date",
+  "select_date_first": "Veuillez d'abord sélectionner une date",
+  "book_now": "Confirmer le rendez-vous",
+  "booking_success": "Votre rendez-vous a été confirmé avec succès",
+  "booking_error": "Une erreur est survenue lors de la réservation",
+  "booking_confirmed": "Votre rendez-vous est confirmé !",
+  "reference_number": "Numéro de référence",
+  "confirmation_email_sent": "Un e-mail de confirmation a été envoyé à votre adresse.",
+  "adult_section": "Urgences Adulte",
+  "child_section": "Urgences Enfant/Adolescent",
+  "tab_book": "Prendre un RDV",
+  "tab_my_appointment": "Mon rendez-vous",
+  "tab_consult": "Consulter en journée",
+  "no_doctor_info": "Vous n'avez pas de médecin traitant ?",
+  "weekend_closed": "Les consultations ne sont pas disponibles le week-end. Veuillez sélectionner un jour de semaine.",
+  "form": {
+    "first_name": "Prénom",
+    "last_name": "Nom",
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "phone": "Numéro de téléphone",
+    "date_of_birth": "Date de naissance",
+    "notes": "Remarques",
+    "reason": "Motif de consultation",
+    "select_date": "Sélectionner une date",
+    "select_time": "Sélectionner un horaire",
+    "select_site": "Sélectionner un site",
+    "submit": "Confirmer le rendez-vous",
+    "cancel": "Annuler le rendez-vous"
+  },
+  "validation": {
+    "required": "Ce champ est obligatoire",
+    "invalid_email": "Adresse e-mail invalide",
+    "invalid_phone": "Numéro de téléphone invalide",
+    "future_date": "La date de naissance ne peut pas être dans le futur",
+    "reason_too_short": "Veuillez décrire plus en détail le motif (min. 10 caractères)",
+    "reason_hint": "Décrivez brièvement le motif de votre consultation",
+    "child_age_restriction": "Les urgences pédiatriques sont réservées aux patients de moins de 16 ans.",
+    "adult_age_restriction": "Les urgences adultes sont réservées aux patients de 16 ans et plus."
+  },
+  "summary": {
+    "review_message": "Veuillez vérifier les informations ci-dessous avant de confirmer votre rendez-vous.",
+    "appointment_details": "Détails du rendez-vous",
+    "patient_details": "Informations du patient",
+    "type": "Type",
+    "date": "Date",
+    "time": "Heure",
+    "patient": "Patient",
+    "booked_on": "Réservé le",
+    "submitting": "Envoi en cours..."
+  },
+  "confirmation": {
+    "keep_reference": "Conservez votre numéro de référence. Vous en aurez besoin pour consulter ou annuler votre rendez-vous.",
+    "print": "Imprimer",
+    "book_another": "Prendre un autre rendez-vous"
+  },
+  "booking": {
+    "reference": "Référence",
+    "status_confirmed": "Confirmé",
+    "status_pending": "En attente",
+    "status_cancelled": "Annulé",
+    "status_completed": "Terminé",
+    "status_no_show": "Absent",
+    "lookup_title": "Rechercher mon rendez-vous",
+    "lookup_placeholder": "Entrez votre référence (ex: RDV-20260311-XXXX)",
+    "not_found": "Aucun rendez-vous trouvé avec cette référence",
+    "cancel_title": "Annuler le rendez-vous",
+    "cancel_confirm": "Êtes-vous sûr de vouloir annuler ce rendez-vous ? Cette action est irréversible.",
+    "cancel_reason": "Motif d'annulation (optionnel)",
+    "confirm_cancel": "Confirmer l'annulation",
+    "cancelled": "Votre rendez-vous a été annulé avec succès",
+    "success": "Votre rendez-vous a été confirmé"
+  },
+  "slots": {
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "no_slots": "Aucun créneau disponible pour cette date"
+  }
+}
