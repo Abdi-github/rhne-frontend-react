@@ -1,0 +1,32 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rhne_frontend_prod
+    restart: unless-stopped
+    ports:
+      - "5174:80"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - rhne-network
+      - traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.rhne-frontend.rule=Host(`rhne.swiftapp.ch`)"
+      - "traefik.http.routers.rhne-frontend.entrypoints=websecure"
+      - "traefik.http.routers.rhne-frontend.tls.certresolver=letsencrypt"
+      - "traefik.http.services.rhne-frontend.loadbalancer.server.port=80"
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://127.0.0.1/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+
+networks:
+  rhne-network:
+    external: true
+  traefik:
+    external: true
