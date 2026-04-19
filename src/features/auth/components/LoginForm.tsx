@@ -4,6 +4,8 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Alert from '@mui/material/Alert';
+import Divider from '@mui/material/Divider';
+import Chip from '@mui/material/Chip';
 import { useTranslation } from 'react-i18next';
 import { useLoginMutation } from '../auth.api';
 import { useAppDispatch } from '@/app/hooks';
@@ -19,6 +21,14 @@ export function LoginForm() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+
+  const DEMO_ACCOUNTS = [
+    { label: 'Super Admin', email: 'superadmin@rhne-clone.ch', password: 'SuperAdmin123!' },
+    { label: 'Admin', email: 'admin@rhne-clone.ch', password: 'Admin123!' },
+    { label: 'Content Editor', email: 'editor@rhne-clone.ch', password: 'Editor123!' },
+    { label: 'HR Manager', email: 'hr@rhne-clone.ch', password: 'HrManager123!' },
+    { label: 'Site Manager', email: 'site.pourtales@rhne-clone.ch', password: 'Manager123!' },
+  ] as const;
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -67,6 +77,24 @@ export function LoginForm() {
         <LocaleLink to="/auth/forgot-password">
           <Typography variant="body2" color="primary">{t('forgot_password')}</Typography>
         </LocaleLink>
+      </Box>
+      <Divider sx={{ my: 2 }}>
+        <Typography variant="caption" color="text.secondary">Demo Accounts</Typography>
+      </Divider>
+      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 1, justifyContent: 'center' }}>
+        {DEMO_ACCOUNTS.map((account) => (
+          <Chip
+            key={account.email}
+            label={account.label}
+            variant="outlined"
+            size="small"
+            onClick={() => {
+              setEmail(account.email);
+              setPassword(account.password);
+            }}
+            clickable
+          />
+        ))}
       </Box>
     </>
   );
